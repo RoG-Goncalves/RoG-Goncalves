@@ -1,6 +1,6 @@
 ### Rodrigo Gonçalves 
 
-Um ex-arquiteto que redescobriu a paixão por programar.
+Um ex-arquiteto que redescobriu a paixão por programar.<br>
 A former architect who's living his old passion for coding
 
 
