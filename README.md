@@ -1,7 +1,7 @@
 ### Rodrigo Gonçalves 
 
-Sou Rodrigo. Um ex-arquiteto que redescobriu a paixão por programar.
-I'm Rodrigo. A former architect who's living his old passion for coding
+Um ex-arquiteto que redescobriu a paixão por programar.
+A former architect who's living his old passion for coding
 
 
 - 💪 Atualmente, focado em JavaScript e suas várias aplicações
