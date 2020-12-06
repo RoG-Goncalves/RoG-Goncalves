@@ -1,10 +1,9 @@
 ### Rodrigo Gonçalves 
-
-Um ex-arquiteto que redescobriu a paixão por programar.<br>
-A former architect who's living his old passion for coding
+Um estudante de Engenharia de Software apaixonado por tecnologia e inovação.<br>
 
 
-- 💪 Atualmente, focado em JavaScript e suas várias aplicações
-- 🤓 Nesse momento, desvendando o MongoDB e o React
+
+- 💪 Atualmente, focado nas plataformas Microsoft e suas várias aplicações
+- 🤓 Nesse momento, desvendando o funcionamento dos computadores e suas arquiteturas
 - 👨‍🎓 Gosto MUITO de ensinar. É só me perguntar!
 - ⚡ Fun fact: Quando eu não estou programando, eu estou: cozinhando, tocando violão, na praia, viajando, comendo abacate numa torrada
