@@ -1,5 +1,5 @@
 ### Rodrigo Gonçalves 
-Um estudante de Engenharia de Software apaixonado por tecnologia e inovação.<br>
+Apaixonado por tecnologia e inovação.<br>
 
 
 
