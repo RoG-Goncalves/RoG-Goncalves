@@ -1,9 +1,19 @@
-### Rodrigo Gonçalves 
-Apaixonado por tecnologia e inovação.<br>
+## Quem sou eu? 
+Um curioso por natureza, apaixonado por tecnologia, inovação e aviões. Cursando Engenharia de Software e sempre em busca de novas oportunidades de aprender e ensinar.
+
+### O que eu fiz?
+[@meus Repos](https://github.com/rog-goncalves?tab=repositories) - meus projetos em andamento
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rog-goncalves&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rog-goncalves&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" />
+</a>
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rog_goncalves)](https://github.com/anuraghazra/github-readme-stats)
+
+### Como entrar em contato?
+
+[@Linkedin](https://www.linkedin.com/in/rodrigo-oliveira-goncalves/) 
 
 
-
-- 💪 Atualmente, focado na plantaforma Shopify e suas várias aplicações
-- 🤓 Nesse momento, desvendando o funcionamento dos computadores e suas arquiteturas
-- 👨‍🎓 Gosto MUITO de ensinar. É só me perguntar!
-- ⚡ Fun fact: Quando eu não estou programando, eu estou: cozinhando, tocando violão, na praia, viajando, comendo abacate numa torrada
