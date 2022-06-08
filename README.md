@@ -1,5 +1,5 @@
 ## Quem sou eu? 
-Um curioso por natureza, apaixonado por tecnologia, inovação e aviões. Cursando Engenharia de Software e sempre em busca de novas oportunidades de aprender e ensinar.
+Um curioso por natureza, apaixonado por tecnologia, inovação e aviões. Sempre em busca de novas oportunidades de aprender e ensinar.
 
 ### O que eu fiz?
 [@meus Repos](https://github.com/rog-goncalves?tab=repositories) - meus projetos em andamento
