@@ -10,8 +10,6 @@ Um curioso por natureza, apaixonado por tecnologia, inovação e aviões. Cursan
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rog-goncalves&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" />
 </a>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rog_goncalves)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Como entrar em contato?
 
 [@Linkedin](https://www.linkedin.com/in/rodrigo-oliveira-goncalves/) 
